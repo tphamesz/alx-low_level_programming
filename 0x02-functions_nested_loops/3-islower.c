@@ -12,8 +12,7 @@ char i;
 int lower = 0;
 {
 if (i == c)
-lowe r = 1;
+lower = 1;
 }
 return (lower);
-}
 }

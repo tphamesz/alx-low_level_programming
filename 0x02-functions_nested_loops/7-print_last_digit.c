@@ -5,7 +5,7 @@
 *Description: this funcion prints the last digit of a number
 *Return: the last digit of number r
 */
-intprint_last_digit(int r)
+int print_last_digit(int r)
 {
 int n;
 if (r < 0)
